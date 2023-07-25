@@ -4,13 +4,13 @@ import time
 import threading
 
 # Token do seu bot obtido no BotFather
-bot_token = '6275773716:AAG-ECDpGoNMY3tCx6w_LVFpxtbBcuj6BFg'
+bot_token = ''
 
 # Criar uma instância do bot
 bot = telebot.TeleBot(bot_token)
 
 # Sala de destino para enviar os sinais
-sala_destino =  -1001971572180  # ID da sala de destino
+sala_destino =    # ID da sala de destino
 
 # Lista inicial de sinais
 lista_sinais = []
